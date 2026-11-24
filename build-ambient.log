@@ -1,0 +1,138 @@
+
+> vite-react-typescript-starter@0.0.0 build
+> vite build
+
+[36mvite v5.4.8 [32mbuilding for production...[36m[39m
+transforming...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[32m✓[39m 6067 modules transformed.
+rendering chunks...
+[1m[33m[plugin:vite:reporter][39m[22m [33m[plugin vite:reporter] 
+(!) C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/lib/supabase.ts is dynamically imported by C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/lib/landing-stats.ts but also statically imported by C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/App.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/components/IdeaModal.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/components/PublishModal.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/lib/achievements.ts, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/lib/auth.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/lib/beta-waitlist.ts, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/lib/revival.ts, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/pages/Community.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/pages/Explore.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/pages/Home.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/pages/Leaderboard.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/pages/PlanetPage.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/pages/PublicProfile.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/pages/Resurrections.tsx, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/planet/lib/supabase.ts, C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/src/planet/stores/economy.ts, dynamic import will not move module into another chunk.
+[39m
+computing gzip size...
+[2mdist/[22m[32mindex.html                                                  [39m[1m[2m    1.99 kB[22m[1m[22m[2m │ gzip:     0.71 kB[22m
+[2mdist/[22m[35massets/CityWorldModule-BAXp-PIH.css                         [39m[1m[2m    4.83 kB[22m[1m[22m[2m │ gzip:     1.59 kB[22m
+[2mdist/[22m[35massets/BuildingInterior-B09ZDD6_.css                        [39m[1m[2m    5.72 kB[22m[1m[22m[2m │ gzip:     1.52 kB[22m
+[2mdist/[22m[35massets/VaultPanel-B0ZjlyDg.css                              [39m[1m[2m    6.49 kB[22m[1m[22m[2m │ gzip:     1.97 kB[22m
+[2mdist/[22m[35massets/ZeroHubBabylon-DDcixiSn.css                          [39m[1m[2m    7.24 kB[22m[1m[22m[2m │ gzip:     2.04 kB[22m
+[2mdist/[22m[35massets/PlanetPage-Bk0CoUjv.css                              [39m[1m[2m   45.54 kB[22m[1m[22m[2m │ gzip:    10.03 kB[22m
+[2mdist/[22m[35massets/index-BUGa0njx.css                                   [39m[1m[2m   63.29 kB[22m[1m[22m[2m │ gzip:    14.24 kB[22m
+[2mdist/[22m[36massets/math.color-HMHOvvvs.js                               [39m[1m[2m    0.06 kB[22m[1m[22m[2m │ gzip:     0.08 kB[22m
+[2mdist/[22m[36massets/abstractAudioBus-Dof2nFBA.js                         [39m[1m[2m    0.12 kB[22m[1m[22m[2m │ gzip:     0.13 kB[22m
+[2mdist/[22m[36massets/tgaTextureLoader-Bh23fUM1.js                         [39m[1m[2m    0.35 kB[22m[1m[22m[2m │ gzip:     0.28 kB[22m
+[2mdist/[22m[36massets/rotate-ccw-ByIB9URD.js                               [39m[1m[2m    0.37 kB[22m[1m[22m[2m │ gzip:     0.29 kB[22m
+[2mdist/[22m[36massets/oitFinalSimpleBlend.fragment-DKdBhgP8.js             [39m[1m[2m    0.42 kB[22m[1m[22m[2m │ gzip:     0.29 kB[22m
+[2mdist/[22m[36massets/AICity-CF08W_m6.js                                   [39m[1m[2m    0.46 kB[22m[1m[22m[2m │ gzip:     0.31 kB[22m
+[2mdist/[22m[36massets/SpaceCity-aX4Q236h.js                                [39m[1m[2m    0.47 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/GamingCity-D68GeJeS.js                               [39m[1m[2m    0.47 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/RoboticsCity-BkJe1QKB.js                             [39m[1m[2m    0.47 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/CommunityCity-a5GvnLJJ.js                            [39m[1m[2m    0.47 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/HealthCity-DL8qC4Jb.js                               [39m[1m[2m    0.47 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/CreatorCity-Dk8blc0D.js                              [39m[1m[2m    0.47 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/SuccessCity-Cb5ESA0X.js                              [39m[1m[2m    0.47 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/RevivalCity-XJPEee0_.js                              [39m[1m[2m    0.47 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/EducationCity-CzBZYQvy.js                            [39m[1m[2m    0.48 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/GraveyardCity-Dl0yQjJw.js                            [39m[1m[2m    0.48 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/refresh-cw-BypQ7kAk.js                               [39m[1m[2m    0.49 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/oitFinalSimpleBlend.fragment-BjUVZT0z.js             [39m[1m[2m    0.49 kB[22m[1m[22m[2m │ gzip:     0.32 kB[22m
+[2mdist/[22m[36massets/flowGraphCodeExecutionBlock-H3QzE4e8.js              [39m[1m[2m    0.51 kB[22m[1m[22m[2m │ gzip:     0.30 kB[22m
+[2mdist/[22m[36massets/buildingAppearance-DGkDvP6F.js                       [39m[1m[2m    0.52 kB[22m[1m[22m[2m │ gzip:     0.29 kB[22m
+[2mdist/[22m[36massets/flowGraphGLTFDataProvider-DYDYGoSc.js                [39m[1m[2m    0.54 kB[22m[1m[22m[2m │ gzip:     0.33 kB[22m
+[2mdist/[22m[36massets/hdrTextureLoader-DxwpmI-j.js                         [39m[1m[2m    0.58 kB[22m[1m[22m[2m │ gzip:     0.41 kB[22m
+[2mdist/[22m[36massets/flowGraphObjectReferenceBlock-C4cuiqb3.js            [39m[1m[2m    0.58 kB[22m[1m[22m[2m │ gzip:     0.37 kB[22m
+[2mdist/[22m[36massets/envTextureLoader-Gle3riNP.js                         [39m[1m[2m    0.62 kB[22m[1m[22m[2m │ gzip:     0.41 kB[22m
+[2mdist/[22m[36massets/volumetricLightingRenderVolume.vertex-8uPN5wSl.js    [39m[1m[2m    0.62 kB[22m[1m[22m[2m │ gzip:     0.37 kB[22m
+[2mdist/[22m[36massets/volumetricLightingRenderVolume.vertex-CUd0WVQ-.js    [39m[1m[2m    0.71 kB[22m[1m[22m[2m │ gzip:     0.40 kB[22m
+[2mdist/[22m[36massets/flowGraphDelayReferenceBlock-BimBVyhz.js             [39m[1m[2m    0.75 kB[22m[1m[22m[2m │ gzip:     0.48 kB[22m
+[2mdist/[22m[36massets/volumetricLightingBlendVolume.fragment-7B_bkYL6.js   [39m[1m[2m    0.85 kB[22m[1m[22m[2m │ gzip:     0.49 kB[22m
+[2mdist/[22m[36massets/gsSortScanSums.compute-9-DisaDS.js                   [39m[1m[2m    0.87 kB[22m[1m[22m[2m │ gzip:     0.50 kB[22m
+[2mdist/[22m[36massets/iblCopyVoxelBufferToGrid.compute-rEz7iM0f.js         [39m[1m[2m    0.88 kB[22m[1m[22m[2m │ gzip:     0.53 kB[22m
+[2mdist/[22m[36massets/lod3D.fragment-gqZB_2lT.js                           [39m[1m[2m    0.91 kB[22m[1m[22m[2m │ gzip:     0.51 kB[22m
+[2mdist/[22m[36massets/gsSortOutput.compute-O7ZcmTku.js                     [39m[1m[2m    0.96 kB[22m[1m[22m[2m │ gzip:     0.53 kB[22m
+[2mdist/[22m[36massets/mesh.vertexData.functions-ayNlGC5K.js                [39m[1m[2m    0.96 kB[22m[1m[22m[2m │ gzip:     0.49 kB[22m
+[2mdist/[22m[36massets/webAudioMainBus-CU_GuPr7.js                          [39m[1m[2m    0.98 kB[22m[1m[22m[2m │ gzip:     0.46 kB[22m
+[2mdist/[22m[36massets/flowGraphPointerUpEventBlock.pure-_BnmXFxL.js        [39m[1m[2m    1.05 kB[22m[1m[22m[2m │ gzip:     0.51 kB[22m
+[2mdist/[22m[36massets/gsSortCount.compute-Cp4C-CII.js                      [39m[1m[2m    1.05 kB[22m[1m[22m[2m │ gzip:     0.58 kB[22m
+[2mdist/[22m[36massets/volumetricLightingBlendVolume.fragment-Ch64YxeR.js   [39m[1m[2m    1.05 kB[22m[1m[22m[2m │ gzip:     0.55 kB[22m
+[2mdist/[22m[36massets/flowGraphPointerDownEventBlock.pure-Bi1TKoiB.js      [39m[1m[2m    1.06 kB[22m[1m[22m[2m │ gzip:     0.51 kB[22m
+[2mdist/[22m[36massets/selection.fragment-B4oqkctm.js                       [39m[1m[2m    1.06 kB[22m[1m[22m[2m │ gzip:     0.53 kB[22m
+[2mdist/[22m[36massets/flowGraphPointerMoveEventBlock.pure-qHkloVbK.js      [39m[1m[2m    1.07 kB[22m[1m[22m[2m │ gzip:     0.52 kB[22m
+[2mdist/[22m[36massets/useMotionSettings-DgabwXMW.js                        [39m[1m[2m    1.08 kB[22m[1m[22m[2m │ gzip:     0.49 kB[22m
+[2mdist/[22m[36massets/lod3D.fragment-mielqWUm.js                           [39m[1m[2m    1.12 kB[22m[1m[22m[2m │ gzip:     0.56 kB[22m
+[2mdist/[22m[36massets/flowGraphUnsupportedInteractivityBlock-WGECGHI9.js   [39m[1m[2m    1.17 kB[22m[1m[22m[2m │ gzip:     0.50 kB[22m
+[2mdist/[22m[36massets/basisTextureLoader-CuelMYPe.js                       [39m[1m[2m    1.23 kB[22m[1m[22m[2m │ gzip:     0.60 kB[22m
+[2mdist/[22m[36massets/selection.fragment-CzWd_87j.js                       [39m[1m[2m    1.28 kB[22m[1m[22m[2m │ gzip:     0.60 kB[22m
+[2mdist/[22m[36massets/noise.fragment-DD4S8mCt.js                           [39m[1m[2m    1.29 kB[22m[1m[22m[2m │ gzip:     0.68 kB[22m
+[2mdist/[22m[36massets/gsSortScanLocal.compute-C-UPSRJD.js                  [39m[1m[2m    1.30 kB[22m[1m[22m[2m │ gzip:     0.65 kB[22m
+[2mdist/[22m[36massets/ddsTextureLoader-CCMY_BFd.js                         [39m[1m[2m    1.31 kB[22m[1m[22m[2m │ gzip:     0.64 kB[22m
+[2mdist/[22m[36massets/noise.fragment-AOZ39mHK.js                           [39m[1m[2m    1.45 kB[22m[1m[22m[2m │ gzip:     0.74 kB[22m
+[2mdist/[22m[36massets/gaussianSplattingVoxel.fragment-ALV3R2O6.js          [39m[1m[2m    1.47 kB[22m[1m[22m[2m │ gzip:     0.72 kB[22m
+[2mdist/[22m[36massets/flowGraphDebugBlock.pure-DXOGRSwl.js                 [39m[1m[2m    1.49 kB[22m[1m[22m[2m │ gzip:     0.66 kB[22m
+[2mdist/[22m[36massets/screenSpaceCurvature.fragment-CrWvZNsD.js            [39m[1m[2m    1.64 kB[22m[1m[22m[2m │ gzip:     0.68 kB[22m
+[2mdist/[22m[36massets/volumetricLightingRenderVolume.fragment-COsG2zvK.js  [39m[1m[2m    1.67 kB[22m[1m[22m[2m │ gzip:     0.81 kB[22m
+[2mdist/[22m[36massets/gaussianSplattingVoxel.fragment-q-6I0Ll7.js          [39m[1m[2m    1.80 kB[22m[1m[22m[2m │ gzip:     0.62 kB[22m
+[2mdist/[22m[36massets/gaussianSplattingVoxel.vertex-DxCi8Oko.js            [39m[1m[2m    1.80 kB[22m[1m[22m[2m │ gzip:     0.75 kB[22m
+[2mdist/[22m[36massets/PlanetGate-BRKMik3E.js                               [39m[1m[2m    1.88 kB[22m[1m[22m[2m │ gzip:     1.00 kB[22m
+[2mdist/[22m[36massets/volumetricLightingRenderVolume.fragment-C5GvGpwg.js  [39m[1m[2m    1.91 kB[22m[1m[22m[2m │ gzip:     0.89 kB[22m
+[2mdist/[22m[36massets/selection.vertex-C6HGmENJ.js                         [39m[1m[2m    2.16 kB[22m[1m[22m[2m │ gzip:     0.84 kB[22m
+[2mdist/[22m[36massets/gsSortKeys.compute-4QmVeHmb.js                       [39m[1m[2m    2.19 kB[22m[1m[22m[2m │ gzip:     0.99 kB[22m
+[2mdist/[22m[36massets/flowGraphEventReferenceBlock-Bz68zTS_.js             [39m[1m[2m    2.33 kB[22m[1m[22m[2m │ gzip:     0.79 kB[22m
+[2mdist/[22m[36massets/webAudioBus-EAiuqFll.js                              [39m[1m[2m    2.39 kB[22m[1m[22m[2m │ gzip:     0.80 kB[22m
+[2mdist/[22m[36massets/selection.vertex-CMvOz5QM.js                         [39m[1m[2m    2.50 kB[22m[1m[22m[2m │ gzip:     0.91 kB[22m
+[2mdist/[22m[36massets/gaussianSplattingVoxel.vertex-DEq9i8bO.js            [39m[1m[2m    2.53 kB[22m[1m[22m[2m │ gzip:     0.92 kB[22m
+[2mdist/[22m[36massets/gsSortScatter.compute-Dt_jnDFo.js                    [39m[1m[2m    2.56 kB[22m[1m[22m[2m │ gzip:     1.12 kB[22m
+[2mdist/[22m[36massets/gpuRenderParticles.fragment-BGl6QXWr.js              [39m[1m[2m    2.64 kB[22m[1m[22m[2m │ gzip:     0.98 kB[22m
+[2mdist/[22m[36massets/gaussianSplatting.fragment-DW-Fx5Il.js               [39m[1m[2m    2.97 kB[22m[1m[22m[2m │ gzip:     0.99 kB[22m
+[2mdist/[22m[36massets/gaussianSplatting.fragment-5-DrP5L_.js               [39m[1m[2m    3.10 kB[22m[1m[22m[2m │ gzip:     1.02 kB[22m
+[2mdist/[22m[36massets/water.vertex-DGsCCPyS.js                             [39m[1m[2m    3.75 kB[22m[1m[22m[2m │ gzip:     1.31 kB[22m
+[2mdist/[22m[36massets/water.vertex-DvuRjL_Z.js                             [39m[1m[2m    4.36 kB[22m[1m[22m[2m │ gzip:     1.36 kB[22m
+[2mdist/[22m[36massets/vault-DkxJpyYz.js                                    [39m[1m[2m    4.37 kB[22m[1m[22m[2m │ gzip:     1.94 kB[22m
+[2mdist/[22m[36massets/BabylonWorldGate-CpoLYTQX.js                         [39m[1m[2m    4.86 kB[22m[1m[22m[2m │ gzip:     2.30 kB[22m
+[2mdist/[22m[36massets/selectionOutline.fragment-CqOmIFEo.js                [39m[1m[2m    5.03 kB[22m[1m[22m[2m │ gzip:     1.08 kB[22m
+[2mdist/[22m[36massets/textureProcessor.fragment-Dn4z0ujM.js                [39m[1m[2m    5.05 kB[22m[1m[22m[2m │ gzip:     1.51 kB[22m
+[2mdist/[22m[36massets/subSurfaceScattering.fragment-BgnCxTcG.js            [39m[1m[2m    5.43 kB[22m[1m[22m[2m │ gzip:     2.06 kB[22m
+[2mdist/[22m[36massets/subSurfaceScattering.fragment-Baaod61S.js            [39m[1m[2m    6.06 kB[22m[1m[22m[2m │ gzip:     2.16 kB[22m
+[2mdist/[22m[36massets/textureProcessor.fragment-Cesw6PKA.js                [39m[1m[2m    6.07 kB[22m[1m[22m[2m │ gzip:     1.70 kB[22m
+[2mdist/[22m[36massets/water.fragment-BgoPGo1M.js                           [39m[1m[2m    6.28 kB[22m[1m[22m[2m │ gzip:     1.75 kB[22m
+[2mdist/[22m[36massets/selectionOutline.fragment-BYZ5xN2Q.js                [39m[1m[2m    6.31 kB[22m[1m[22m[2m │ gzip:     1.19 kB[22m
+[2mdist/[22m[36massets/gaussianSplatting.vertex-D-kergZV.js                 [39m[1m[2m    6.88 kB[22m[1m[22m[2m │ gzip:     1.89 kB[22m
+[2mdist/[22m[36massets/dds.pure-COoBlWqc.js                                 [39m[1m[2m    7.04 kB[22m[1m[22m[2m │ gzip:     2.49 kB[22m
+[2mdist/[22m[36massets/water.fragment-DMnaCZPp.js                           [39m[1m[2m    7.57 kB[22m[1m[22m[2m │ gzip:     1.84 kB[22m
+[2mdist/[22m[36massets/gaussianSplatting.vertex-C4VEFDSY.js                 [39m[1m[2m    8.18 kB[22m[1m[22m[2m │ gzip:     2.08 kB[22m
+[2mdist/[22m[36massets/VaultPanel-piFuPsO8.js                               [39m[1m[2m    8.48 kB[22m[1m[22m[2m │ gzip:     3.34 kB[22m
+[2mdist/[22m[36massets/textureProcessor-CykChtQp.js                         [39m[1m[2m    9.39 kB[22m[1m[22m[2m │ gzip:     3.48 kB[22m
+[2mdist/[22m[36massets/gpuRenderParticles.vertex-CVnYdMi2.js                [39m[1m[2m    9.80 kB[22m[1m[22m[2m │ gzip:     2.15 kB[22m
+[2mdist/[22m[36massets/BuildingInterior-Duk7A6Ud.js                         [39m[1m[2m   13.44 kB[22m[1m[22m[2m │ gzip:     4.77 kB[22m
+[2mdist/[22m[36massets/ktxTextureLoader-DeKNZwRQ.js                         [39m[1m[2m   15.05 kB[22m[1m[22m[2m │ gzip:     4.38 kB[22m
+[2mdist/[22m[36massets/pbrMaterialLoadingAdapter-CMY1EF3H.js                [39m[1m[2m   16.71 kB[22m[1m[22m[2m │ gzip:     3.32 kB[22m
+[2mdist/[22m[36massets/openpbrMaterialLoadingAdapter-BVwmD833.js            [39m[1m[2m   19.54 kB[22m[1m[22m[2m │ gzip:     3.74 kB[22m
+[2mdist/[22m[36massets/BuildingShop-CD8FgPkE.js                             [39m[1m[2m   22.16 kB[22m[1m[22m[2m │ gzip:     6.89 kB[22m
+[2mdist/[22m[36massets/PlanetPage-f78FZX10.js                               [39m[1m[2m   22.61 kB[22m[1m[22m[2m │ gzip:     8.31 kB[22m
+[2mdist/[22m[36massets/OrbitControls-O-0GnpWD.js                            [39m[1m[2m   22.78 kB[22m[1m[22m[2m │ gzip:     7.48 kB[22m
+[2mdist/[22m[36massets/BabylonCity-DoMJwsvh.js                              [39m[1m[2m   23.17 kB[22m[1m[22m[2m │ gzip:     9.37 kB[22m
+[2mdist/[22m[36massets/BuildingModel-DaQ44xpR.js                            [39m[1m[2m   26.80 kB[22m[1m[22m[2m │ gzip:     9.28 kB[22m
+[2mdist/[22m[36massets/meshBlending.fragment-HciHRuIx.js                    [39m[1m[2m   39.50 kB[22m[1m[22m[2m │ gzip:     8.30 kB[22m
+[2mdist/[22m[36massets/meshBlending.fragment-B1GqQejc.js                    [39m[1m[2m   42.63 kB[22m[1m[22m[2m │ gzip:     8.65 kB[22m
+[2mdist/[22m[36massets/surface-BmHLY4LT.js                                  [39m[1m[2m   45.60 kB[22m[1m[22m[2m │ gzip:    15.43 kB[22m
+[2mdist/[22m[36massets/ZeroHubBabylon-TTaf_l2U.js                           [39m[1m[2m   50.31 kB[22m[1m[22m[2m │ gzip:    16.37 kB[22m
+[2mdist/[22m[36massets/heightfield-CYBa0ljX.js                              [39m[1m[2m   50.91 kB[22m[1m[22m[2m │ gzip:    19.54 kB[22m
+[2mdist/[22m[36massets/DistrictScene-3PY87s0N.js                            [39m[1m[2m   73.99 kB[22m[1m[22m[2m │ gzip:    24.94 kB[22m
+[2mdist/[22m[36massets/SwayingFoliage-jiicrsuu.js                           [39m[1m[2m   82.68 kB[22m[1m[22m[2m │ gzip:    24.90 kB[22m
+[2mdist/[22m[36massets/MiniatureWorlds-CxNcbIhM.js                          [39m[1m[2m  110.02 kB[22m[1m[22m[2m │ gzip:    34.94 kB[22m
+[2mdist/[22m[36massets/ProjectDetail-Bp6jKZy3.js                            [39m[1m[2m  127.03 kB[22m[1m[22m[2m │ gzip:    41.62 kB[22m
+[2mdist/[22m[36massets/cityScenes-dDtOsDII.js                               [39m[1m[2m  146.70 kB[22m[1m[22m[2m │ gzip:    54.50 kB[22m
+[2mdist/[22m[36massets/CityWorldModule-CBynjBBz.js                          [39m[1m[2m  490.52 kB[22m[1m[22m[2m │ gzip:   214.93 kB[22m
+[2mdist/[22m[36massets/index-CnKCpvQr.js                                    [39m[1m[33m  524.82 kB[39m[22m[2m │ gzip:   142.97 kB[22m
+[2mdist/[22m[36massets/ScenePrimitives-DpNUVG9Y.js                          [39m[1m[33m  824.22 kB[39m[22m[2m │ gzip:   223.13 kB[22m
+[2mdist/[22m[36massets/Exploration-B2xm9dji.js                              [39m[1m[33m2,093.73 kB[39m[22m[2m │ gzip:   772.92 kB[22m
+[2mdist/[22m[36massets/ExtrasAsMetadata-DD0jDITz.js                         [39m[1m[33m7,627.89 kB[39m[22m[2m │ gzip: 1,703.87 kB[22m
+[33m
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.[39m
+[32m✓ built in 5m 19s[39m
+BUILD_EXIT=0

@@ -1,0 +1,76 @@
+[2.1s] navigate direct planet
+[4.2s] planet toolbar mounted
+[10.9s] click Zero Hub
+[32.5s] Babylon canvas mounted
+[49.5s] Babylon painted
+[80.3s] settled
+[82.1s] GLB library live: 9 families, 101 instanced buildings
+{
+  "mode": "production",
+  "steps": {
+    "glbLibrary": {
+      "layer": "glb",
+      "families": "9",
+      "instances": "101"
+    },
+    "initialRender": {
+      "width": 1376,
+      "height": 1000,
+      "brightRatio": 0.8766,
+      "mean": 41.81,
+      "hash": -1117890522
+    },
+    "dragOrbit": {
+      "before": 1668933336,
+      "after": -1778002948,
+      "changed": true
+    },
+    "wheelZoom": {
+      "before": 1740984801,
+      "after": 124289756,
+      "changed": true
+    },
+    "nightControls": {
+      "width": 1376,
+      "height": 1000,
+      "brightRatio": 0.3607,
+      "mean": 41.32,
+      "hash": 1812866746
+    },
+    "qualityCycle": {
+      "low": 0.2527,
+      "high": 0.2639
+    },
+    "randomize": {
+      "seedBefore": "seed 7",
+      "seedAfter": "seed 49591"
+    },
+    "reset": {
+      "seedReset": "seed 7"
+    },
+    "reentry": {
+      "width": 1376,
+      "height": 1000,
+      "brightRatio": 0.9999,
+      "mean": 44.01,
+      "hash": 1784458472,
+      "assetLayer": "glb"
+    },
+    "mobile": {
+      "panelRight": 378,
+      "panelBottom": 736,
+      "viewportW": 390,
+      "viewportH": 844,
+      "canvasW": 326,
+      "canvasH": 844,
+      "docOverflowX": false
+    }
+  },
+  "frameCadence": {
+    "frameCount": 59,
+    "meanFrameMs": 3729.3,
+    "p95FrameMs": 4195.2
+  },
+  "errors": [],
+  "screenshots": "C:\\Users\\CheliyanP\\Kombai\\projects\\screenshots\\zero-hub-upscale-v1-prod"
+}

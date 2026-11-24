@@ -1,0 +1,74 @@
+[1.6s] navigate direct planet (guest preview)
+[105.4s] planet ready
+[105.4s] travel to AI City started
+[191.1s] AI City painted
+[288.8s] dossier open, entering building
+[343.2s] interior painted with real record fields
+[355.7s] E interact + guest console verified
+[361.2s] walked 0.00,7.80 -> 0.00,7.00
+[365.3s] room controls live
+[398.7s] re-entry stable
+[412.5s] exit chain clean
+{
+  "mode": "development",
+  "steps": {
+    "dossier": {
+      "enterButton": true,
+      "selected": "◆ Lumen Atlas"
+    },
+    "interiorIdentity": {
+      "project": "aaaaaaaa-0000-4000-8000-000000000001",
+      "status": "abandoned",
+      "kicker": "BUILDING INTERIOR · DERELICT",
+      "title": "Lumen Atlas",
+      "coreTag": "Lumen AtlasDERELICT · abandoned",
+      "holos": [
+        "ORIGINFixture Founder · 2021\nSynthetic test fixture: a community light-pollution mapper.",
+        "THE STALL2023\nSynthetic fixture story: the team ran out of runway before the satellite pass.",
+        "LESSONSSynthetic lesson: cache the tile pipeline before scaling.",
+        "REVIVAL PATHTypeScript, GIS, WebGL"
+      ]
+    },
+    "guestConsole": {
+      "note": "You're exploring as a guest. Sign in through Reboot to send a signal.",
+      "submitDisabled": true
+    },
+    "walk": {
+      "beforeWalk": "0.00,7.80",
+      "afterWalk": "0.00,7.00"
+    },
+    "roomControls": {
+      "applied": [
+        "6",
+        "1",
+        "85",
+        "1.3",
+        "0.6",
+        "0.8"
+      ],
+      "holoToggle": true,
+      "reset": true
+    },
+    "reentry": {
+      "positionReset": true
+    },
+    "mobile": {
+      "overlayW": 326,
+      "overlayH": 844,
+      "panelRight": 378,
+      "panelBottom": 780,
+      "exitVisible": true,
+      "canvasW": 326,
+      "canvasH": 844,
+      "viewportW": 390,
+      "viewportH": 844,
+      "docOverflowX": false
+    },
+    "exitChain": {
+      "city": "AI",
+      "renderReady": "true"
+    }
+  },
+  "errors": [],
+  "screenshots": "C:\\Users\\CheliyanP\\Kombai\\projects\\screenshots\\interior-v4-dev"
+}

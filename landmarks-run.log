@@ -1,0 +1,35 @@
+[4.0s] navigate AI
+[116.4s] AI OK · crystal-monolith · bright=0.1797
+[116.4s] navigate Gaming
+Error: Timed out: document.querySelector('[data-babylon-ready]')?.dataset.babylonReady === 'true'
+PAGE: Home
+Explore
+Graveyard
+Reboot Planet
+Leaderboard
+Resurrections
+Feedback & Roadmap
+β
+AI LabBETA
+Search
+Publish Idea
+Time of day
+Morning
+Afternoon
+Evening
+Night
+Atmosphere
+World atmosphere
+Clear
+Warm daylight
+Rain
+Snow
+Archive
+My City
+Zero Hub
+Echo
+Vault
+PREVIEW · SHOP LOCKED
+    at wait (file:///C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/babylon-landmarks.check.mjs:41:178)
+    at async file:///C:/Users/CheliyanP/Kombai/projects/project-pearl-sparrow/babylon-landmarks.check.mjs:51:5
+Browser errors: []

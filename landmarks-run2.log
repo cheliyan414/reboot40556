@@ -1,0 +1,108 @@
+[8.7s] navigate Gaming
+[177.8s] Gaming OK · twin-arch-towers · bright=0.2376
+[177.8s] navigate Education
+[324.5s] Education OK · terraced-arcology · bright=0.9115
+[324.5s] navigate Health
+[406.9s] Health OK · bio-dome · bright=0.7306
+[406.9s] navigate Creative
+[503.9s] Creative OK · twist-spire · bright=0.1589
+[503.9s] navigate Business
+[604.2s] Business OK · cantilever-stack · bright=0.9423
+[604.2s] navigate Graveyard
+[687.2s] Graveyard OK · gateway-monument · bright=0.3388
+[687.2s] navigate Success
+[823.5s] Success OK · legacy-spire · bright=0.8167
+[823.5s] navigate Future
+[905.8s] Future OK · ring-observatory · bright=0.2124
+[905.8s] navigate Nature
+[971.4s] Nature OK · living-canopy · bright=0.9055
+[971.4s] navigate Social
+[1054.6s] Social OK · habitat-block · bright=0.8884
+{
+  "mode": "production",
+  "districts": {
+    "Gaming": {
+      "landmark": "glb",
+      "file": "twin-arch-towers",
+      "brightRatio": 0.2376,
+      "mean": 28.01,
+      "hash": -1123666239,
+      "errors": []
+    },
+    "Education": {
+      "landmark": "glb",
+      "file": "terraced-arcology",
+      "brightRatio": 0.9115,
+      "mean": 106.17,
+      "hash": -342178853,
+      "errors": []
+    },
+    "Health": {
+      "landmark": "glb",
+      "file": "bio-dome",
+      "brightRatio": 0.7306,
+      "mean": 99.76,
+      "hash": -343027265,
+      "errors": []
+    },
+    "Creative": {
+      "landmark": "glb",
+      "file": "twist-spire",
+      "brightRatio": 0.1589,
+      "mean": 23.17,
+      "hash": 1783372319,
+      "errors": []
+    },
+    "Business": {
+      "landmark": "glb",
+      "file": "cantilever-stack",
+      "brightRatio": 0.9423,
+      "mean": 90.79,
+      "hash": 924197879,
+      "errors": []
+    },
+    "Graveyard": {
+      "landmark": "glb",
+      "file": "gateway-monument",
+      "brightRatio": 0.3388,
+      "mean": 24.34,
+      "hash": -109788886,
+      "errors": []
+    },
+    "Success": {
+      "landmark": "glb",
+      "file": "legacy-spire",
+      "brightRatio": 0.8167,
+      "mean": 93.6,
+      "hash": 140550447,
+      "errors": []
+    },
+    "Future": {
+      "landmark": "glb",
+      "file": "ring-observatory",
+      "brightRatio": 0.2124,
+      "mean": 25.28,
+      "hash": 1514686645,
+      "errors": []
+    },
+    "Nature": {
+      "landmark": "glb",
+      "file": "living-canopy",
+      "brightRatio": 0.9055,
+      "mean": 83.36,
+      "hash": -919594746,
+      "errors": []
+    },
+    "Social": {
+      "landmark": "glb",
+      "file": "habitat-block",
+      "brightRatio": 0.8884,
+      "mean": 108.65,
+      "hash": -1650856132,
+      "errors": []
+    }
+  },
+  "distinctLandmarks": 10,
+  "screenshots": "C:\\Users\\CheliyanP\\Kombai\\projects\\screenshots\\landmarks-prod"
+}
+EXIT=0

@@ -1,0 +1,86 @@
+{
+  "mode": "development",
+  "cities": [
+    "AI",
+    "Gaming",
+    "Education",
+    "Health",
+    "Creator",
+    "IdeaHub",
+    "Graveyard",
+    "Legend",
+    "Space",
+    "Robotics",
+    "Community"
+  ],
+  "errors": [],
+  "metrics": [
+    {
+      "city": "AI",
+      "frameCount": 59,
+      "meanFrameMs": 99.6,
+      "p95FrameMs": 116.6
+    },
+    {
+      "city": "Gaming",
+      "frameCount": 59,
+      "meanFrameMs": 92.55,
+      "p95FrameMs": 116.7
+    },
+    {
+      "city": "Education",
+      "frameCount": 59,
+      "meanFrameMs": 96.22,
+      "p95FrameMs": 133.4
+    },
+    {
+      "city": "Health",
+      "frameCount": 59,
+      "meanFrameMs": 153.78,
+      "p95FrameMs": 366.3
+    },
+    {
+      "city": "Creator",
+      "frameCount": 59,
+      "meanFrameMs": 90.28,
+      "p95FrameMs": 133.2
+    },
+    {
+      "city": "IdeaHub",
+      "frameCount": 59,
+      "meanFrameMs": 94.53,
+      "p95FrameMs": 133.2
+    },
+    {
+      "city": "Graveyard",
+      "frameCount": 59,
+      "meanFrameMs": 98.19,
+      "p95FrameMs": 100.1
+    },
+    {
+      "city": "Legend",
+      "frameCount": 59,
+      "meanFrameMs": 162.53,
+      "p95FrameMs": 349.7
+    },
+    {
+      "city": "Space",
+      "frameCount": 59,
+      "meanFrameMs": 91.42,
+      "p95FrameMs": 100
+    },
+    {
+      "city": "Robotics",
+      "frameCount": 59,
+      "meanFrameMs": 123.31,
+      "p95FrameMs": 266.4
+    },
+    {
+      "city": "Community",
+      "frameCount": 59,
+      "meanFrameMs": 93.4,
+      "p95FrameMs": 133.3
+    }
+  ],
+  "screenshots": "C:\\Users\\CheliyanP\\Kombai\\projects\\screenshots\\district-upscale-v4-dev"
+}
